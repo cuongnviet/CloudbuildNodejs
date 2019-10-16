@@ -1,0 +1,26 @@
+{
+  "name": "gcp-cloud-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clos-consultancy/gcp-cloud-build.git"
+  },
+  "author": "CLOS Consultancy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clos-consultancy/gcp-cloud-build/issues"
+  },
+  "homepage": "https://github.com/clos-consultancy/gcp-cloud-build#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
