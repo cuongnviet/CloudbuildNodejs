@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/clos-consultancy/gcp-cloud-build#readme",
   "devDependencies": {
-    "jest": "^23.5.0"
+    "jest": "^29.3.1"
   },
   "dependencies": {
     "express": "^4.16.3"
